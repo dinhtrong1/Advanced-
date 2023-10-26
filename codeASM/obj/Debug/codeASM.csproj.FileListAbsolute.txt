@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\codeASM\codeASM\obj\Debug\codeASM.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\codeASM\codeASM\obj\Debug\codeASM.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\codeASM\codeASM\bin\Debug\codeASM.exe.config
+C:\Users\Admin\source\repos\codeASM\codeASM\bin\Debug\codeASM.exe
+C:\Users\Admin\source\repos\codeASM\codeASM\bin\Debug\codeASM.pdb
+C:\Users\Admin\source\repos\codeASM\codeASM\obj\Debug\codeASM.exe
+C:\Users\Admin\source\repos\codeASM\codeASM\obj\Debug\codeASM.pdb
